@@ -1,0 +1,26 @@
+# Unreal Engine generated
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE / project files (regenerated from .uproject)
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Excluded from this repo (code-only mirror)
+Content/
+
+# OS
+Thumbs.db
+.DS_Store
