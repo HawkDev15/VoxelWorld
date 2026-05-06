@@ -96,6 +96,7 @@ Key bindings live in `Content/GameSources/Inputs/MC_Game` (Input Mapping Context
 ## World configuration
 
 All generation parameters live in `Content/Data/DA_WorldSettings` (`UVoxelWorldSettings`):
+<img width="1352" height="959" alt="image" src="https://github.com/user-attachments/assets/ccc0e3d9-e190-45a8-8c2d-fff298017a44" />
 
 - `Seed`, `RenderDistance`, `ChunkSize`, `ChunkHeight`
 - `SeaLevel`, `SnowAltitude`
