@@ -2,6 +2,12 @@
 
 A Minecraft-inspired voxel sandbox built on Unreal Engine 5.7. Infinite procedural world driven by multi-octave Perlin noise, block breaking and placing, world save/load, and a hotbar inventory.
 
+## Demo
+
+[![VoxelWorld demo](https://img.youtube.com/vi/J5yOp9EUoHg/maxresdefault.jpg)](https://www.youtube.com/watch?v=J5yOp9EUoHg)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=J5yOp9EUoHg)
+
 ## Stack
 
 - **Unreal Engine** 5.7
