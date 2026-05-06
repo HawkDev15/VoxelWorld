@@ -8,6 +8,10 @@ A Minecraft-inspired voxel sandbox built on Unreal Engine 5.7. Infinite procedur
 
 [Watch on YouTube](https://www.youtube.com/watch?v=J5yOp9EUoHg)
 
+## Download
+
+Packaged Windows build: [Google Drive](https://drive.google.com/file/d/1HicS6sr1U31TbG8-qBnxtui80iDYB4Cd/view?usp=sharing)
+
 ## Stack
 
 - **Unreal Engine** 5.7
